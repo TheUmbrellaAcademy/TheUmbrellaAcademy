@@ -1,5 +1,5 @@
 <p align="center"> ▄▀▄▀▄▀▄▀▄▀▄▄▀▄▀▄▀▄▀▄▀▄▄▀▄▀▄▀▄▀▄▀▄▄▀▄▀▄▀▄▀▄▀▄▄▀▄▀▄▀▄▀▄▀▄▄▀▄▀▄▀▄▀▄▀▄▄▀▄▀▄▀▄▀▄▀▄
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=whannells&label=stalkers%20&color=fe0914&style=flat"  </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=whannells&label=stalkers%20&color=2f3e40&style=flat"  </p>
 
 <p align="center"> <img src="https://i.pinimg.com/originals/87/6c/85/876c85b9a056d3370a879178fd9719ec.gif" width="600" height="300">
   
